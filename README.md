@@ -6,10 +6,15 @@ Hi. My name is Atakan. I am a Computer Engineer.
 My Linkedin: https://www.linkedin.com/in/atakankaracali/
 
 My G-Mail: atakan.karacali97@gmail.com
+
 ------------------------------
+
 1-) pip install --upgrade pip
+
 2-) pip install opencv-python
+
 3-) pip install pypng
+
 4-) pip install pyqrcode
 
 
